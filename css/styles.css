@@ -2112,17 +2112,18 @@ a:hover.back-to-top {
 
 
 	/* Footer */
-	.footer .footer-col.first {
-		margin-right: 1.5rem;
+	.footer .footer-col {
+		width: 90%;
 	}
 
 	.footer .footer-col.middle {
-		margin-right: 0.75rem;
-		margin-left: 0.75rem;
+		margin-right: auto;
+		margin-left: auto;
 	}
 
 	.footer .footer-col.last {
-		margin-left: 1.5rem;
+		margin-right: 0;
+		margin-left: auto;
 	}
 	/* end of footer */
 
