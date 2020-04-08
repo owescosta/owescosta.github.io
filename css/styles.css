@@ -1654,16 +1654,17 @@ a:hover.back-to-top {
 	/* end of testimonials */
 
 
-	/* Newsletter */
-	.form .text-container {
-		padding: 4rem 2.5rem 3rem 2.5rem;
+/* Contact */
+	.form .list-unstyled li {
+		display: inline-block;
+		margin-right: 0.5rem;
+		margin-left: 0.5rem;
 	}
 
-	.form form {
-		margin-right: 4rem;
-		margin-left: 4rem;
+	.form .list-unstyled .address {
+		display: block;
 	}
-	/* end of newsletter */
+	/* end of contact */
 
 
 	/* Footer */
@@ -1927,25 +1928,17 @@ a:hover.back-to-top {
 	/* end of testimonials */
 
 
-	/* Newsletter */
-	.form .text-container {
-		width: 55rem;
-		margin-right: auto;
-		margin-left: auto;
-		padding-top: 5rem;
-		padding-bottom: 4.5rem;
+/* Contact */
+	.form .list-unstyled li {
+		display: inline-block;
+		margin-right: 0.5rem;
+		margin-left: 0.5rem;
 	}
 
-	.form h2 {
-		margin-right: 7rem;
-		margin-left: 7rem;
+	.form .list-unstyled .address {
+		display: block;
 	}
-
-	.form form {
-		margin-right: 9rem;
-		margin-left: 9rem;
-	}
-	/* end of newsletter */
+	/* end of contact */
 
 
 	/* Extra Pages */
@@ -2074,26 +2067,6 @@ a:hover.back-to-top {
 		margin-left: auto;
 	}
 	/* end of testimonials */
-
-
-	/* Newsletter */
-	.form .text-container {
-		width: 64.75rem;
-		padding-top: 6rem;
-		padding-bottom: 5.5rem;
-	}
-
-	.form h2 {
-		margin-right: 12rem;
-		margin-left: 12rem;
-	}
-
-	.form form {
-		margin-right: 15rem;
-		margin-left: 15rem;
-	}
-	/* end of newsletter */
-
 
 	/* Footer */
 	.footer .footer-col {
