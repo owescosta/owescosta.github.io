@@ -30,7 +30,7 @@ Table Of Contents:
 /*****************************************
 Colors:
 
-- Text, navbar links - white #f1f1f8
+- Text, navbar links - white #7d7d7c
 - Buttons, bullets, icons - turquoise #00c9db
 - Navbar - navy #4633af
 - Backgrounds - dark denim #262431
@@ -48,17 +48,17 @@ html {
 }
 
 body, p {
-	color: #f1f1f8; 
+	color: #7d7d7c; 
 	font: 400 0.875rem/1.375rem "Open Sans", sans-serif;
 }
 
 .p-large {
-	color: #f1f1f8;
+	color: #7d7d7c;
 	font: 400 1rem/1.5rem "Open Sans", sans-serif;
 }
 
 .p-small {
-	color: #f1f1f8;
+	color: #7d7d7c;
 	font: 400 0.75rem/1.25rem "Open Sans", sans-serif;
 }
 
@@ -76,42 +76,42 @@ body, p {
 }
 
 h1 {
-	color: #f1f1f8;
+	color: #7d7d7c;
 	font: 700 2.5rem/2.875rem "Montserrat", sans-serif;
 }
 
 h2 {
-	color: #f1f1f8;
+	color: #7d7d7c;
 	font: 700 2.25rem/2.75rem "Montserrat", sans-serif;
 }
 
 h3 {
-	color: #f1f1f8;
+	color: #7d7d7c;
 	font: 700 1.75rem/2.125rem "Montserrat", sans-serif;
 }
 
 h4 {
-	color: #f1f1f8;
+	color: #7d7d7c;
 	font: 700 1.375rem/1.75rem "Montserrat", sans-serif;
 }
 
 h5 {
-	color: #f1f1f8;
+	color: #7d7d7c;
 	font: 700 1.125rem/1.625rem "Montserrat", sans-serif;
 }
 
 h6 {
-	color: #f1f1f8;
+	color: #7d7d7c;
 	font: 700 1rem/1.5rem "Montserrat", sans-serif;
 }
 
 a {
-	color: #f1f1f8;
+	color: #7d7d7c;
 	text-decoration: underline;
 }
 
 a:hover {
-	color: #f1f1f8;
+	color: #7d7d7c;
 	text-decoration: underline;
 }
 
@@ -249,7 +249,7 @@ a.white {
 	position: absolute;
 	top: 0.87rem;
 	left: 1.375rem;
-	color: #f1f1f8;
+	color: #7d7d7c;
 	opacity: 1;
 	font: 400 0.875rem/1.375rem "Open Sans", sans-serif;
 	cursor: text;
@@ -283,7 +283,7 @@ a.white {
 	border: 1px solid #9791ae;
 	border-radius: 0.25rem;
 	background-color: #413d52;
-	color: #f1f1f8;
+	color: #7d7d7c;
 	font: 400 0.875rem/1.875rem "Open Sans", sans-serif;
 	transition: all 0.2s ease;
 	-webkit-appearance: none; /* removes inner shadow on form inputs on ios safari */
@@ -337,7 +337,7 @@ select::-ms-expand {
 	border: 1px solid #9791ae;
 	border-radius: 0.25rem;
 	background-color: #413d52;
-	color: #f1f1f8;
+	color: #7d7d7c;
 	font: 400 0.875rem/1.75rem "Open Sans", sans-serif;
 	transition: all 0.2s ease;
 }
@@ -345,14 +345,14 @@ select::-ms-expand {
 .form-control-input:focus,
 .form-control-select:focus,
 .form-control-textarea:focus {
-	border: 1px solid #f1f1f8;
+	border: 1px solid #7d7d7c;
 	outline: none; /* Removes blue border on focus */
 }
 
 .form-control-input:hover,
 .form-control-select:hover,
 .form-control-textarea:hover {
-	border: 1px solid #f1f1f8;
+	border: 1px solid #7d7d7c;
 }
 
 .checkbox {
@@ -396,12 +396,12 @@ input[type='checkbox'] {
 #pmsgSubmit.h3.text-center {
 	display: block;
 	margin-bottom: 0;
-	color: #f1f1f8;
+	color: #7d7d7c;
 	font: 400 1.125rem/1rem "Open Sans", sans-serif;
 }
 
 .help-block.with-errors .list-unstyled {
-	color: #f1f1f8;
+	color: #7d7d7c;
 	font-size: 0.75rem;
 	line-height: 1.125rem;
 	text-align: left;
@@ -819,13 +819,14 @@ input[type='checkbox'] {
 
 .slider-1 .swiper-button-prev {
 	left: -0.5rem;
-	background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2028%2044'%3E%3Cpath%20d%3D'M0%2C22L22%2C0l2.1%2C2.1L4.2%2C22l19.9%2C19.9L22%2C44L0%2C22L0%2C22L0%2C22z'%20fill%3D'%23f1f1f8'%2F%3E%3C%2Fsvg%3E");
+	background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2028%2044'%3E%3Cpath%20d%3D'M0%2C22L22%2C0l2.1%2C2.1L4.2%2C22l19.9%2C19.9L22%2C44L0%2C22L0%2C22L0%2C22z'%20fill%3D'%7d7d7c'%2F%3E%3C%2Fsvg%3E");
 	background-size: 1.125rem 1.75rem;
 }
 
 .slider-1 .swiper-button-next {
 	right: -0.5rem;
-	background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2028%2044'%3E%3Cpath%20d%3D'M27%2C22L27%2C22L5%2C44l-2.1-2.1L22.8%2C22L2.9%2C2.1L5%2C0L27%2C22L27%2C22z'%20fill%3D'%23f1f1f8'%2F%3E%3C%2Fsvg%3E");
+	background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D'http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg'%20viewBox%3D'0%200%2028%2044'%3E%3Cpath%20d%3D'M27%2C22L27%2C22L5%2C44l-2.1-2.1L22.8%2C22L2.9%2C2.1L5%2C0L27%2C22L27%2C22z'%20fill%3D'%7d7d7c
+		'%2F%3E%3C%2Fsvg%3E");
 	background-size: 1.125rem 1.75rem;
 }
 
@@ -883,9 +884,9 @@ input[type='checkbox'] {
 	margin-bottom: 1rem;
 	padding: 0.5rem 1.375rem 0.25rem 1.375rem;
 	border: none;
-	border-bottom: 0.1875rem solid #f1f1f8;
+	border-bottom: 0.1875rem solid #7d7d7c;
 	border-radius: 0;
-	color: #f1f1f8;
+	color: #7d7d7c;
 	font: 700 1rem/1.75rem "Montserrat", sans-serif;
 	text-decoration: none;
 	transition: all 0.2s ease;
@@ -1215,7 +1216,7 @@ input[type='checkbox'] {
 }
 
 .lightbox-basic a.mfp-close.as-button:hover {
-	color: #f1f1f8;
+	color: #7d7d7c;
 }
 
 .lightbox-basic button.mfp-close.x-button {
@@ -1224,7 +1225,7 @@ input[type='checkbox'] {
 	right: -0.375rem;
 	width: 2.75rem;
 	height: 2.75rem;
-	color: #f1f1f8;
+	color: #7d7d7c;
 }
 
 
@@ -1320,7 +1321,7 @@ input[type='checkbox'] {
 }
 
 .counter #counter .counter-value {
-	color: #f1f1f8;
+	color: #7d7d7c;
 	font: 700 3.5rem/4.25rem "Montserrat", sans-serif;	
 	vertical-align: middle;
 }
@@ -1404,12 +1405,12 @@ input[type='checkbox'] {
 }
 
 .footer .fa-stack .fa-stack-2x {
-	color: #f1f1f8;
+	color: #7d7d7c;
 	transition: all 0.2s ease;
 }
 
 .footer .fa-stack:hover .fa-stack-1x {
-	color: #f1f1f8;
+	color: #7d7d7c;
 }
 
 .footer .fa-stack:hover .fa-stack-2x {
@@ -1428,7 +1429,7 @@ input[type='checkbox'] {
 }
 
 .copyright .p-small {
-	color: #f1f1f8;
+	color: #7d7d7c;
 	opacity: 0.6;
 }
 
